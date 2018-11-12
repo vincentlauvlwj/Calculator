@@ -20,3 +20,5 @@ Calculator
 	3+4k5=
 	Syntax Error!
 	123+3^2=132
+
+![](picture1.png)
